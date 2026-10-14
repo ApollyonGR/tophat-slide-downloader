@@ -1,0 +1,11 @@
+altgraph==0.17.5
+babel==2.18.0
+cached-property==2.0.1
+haralyzer==2.4.0
+packaging==26.3
+psutil==7.2.2
+pyinstaller==6.22.3
+pyinstaller-hooks-contrib==2026.8
+python-dateutil==2.9.0.post0
+setuptools==84.0.0
+six==1.17.0
